@@ -27,3 +27,14 @@ c1.display()
 var c4:CStudent?
 c4=CStudent()
 c4=nil
+
+var s="Hello"
+s.append("H")
+
+var e1=Employee()
+e1.employeeID="1"
+e1.firstName="Anmariya"
+e1.lastName="Francis"
+print(e1.empCode)
+print(e1.fullName)
+print(e1.age)
